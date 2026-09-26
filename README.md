@@ -1,12 +1,12 @@
-# KiteScribe Releases
+# KiteScribe - Windows transcription and OCR releases
 
-Official public distribution mirror for KiteScribe by FXBG Foundry LLC, developed by Caymran Cummings.
+Official public distribution mirror for KiteScribe by FXBG Foundry LLC, developed by [Caymran Cummings](https://github.com/caymran) (Caymran Coral Cummings).
 
 - This repository contains release artifacts only (installers, hashes, release notes).
 - Source code is maintained in a private repository.
 
 # 🧠 KiteScribe
-**Developer:** (https://KiteScribe.ai)  
+**Developer:** [Caymran Cummings](https://github.com/caymran), [FXBG Foundry LLC](https://fxbgfoundry.com/)  
 **License:** Proprietary (see EULA.md)  
 
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-blue.svg)  
@@ -37,7 +37,7 @@ Official public distribution mirror for KiteScribe by FXBG Foundry LLC, develope
 
 ## 🖥️ Installation
 1. **Download the installer**  
-   From the [Releases](https://KiteScribe.ai) page:
+   From the [official GitHub Releases](https://github.com/FXBGFoundry/kitescribe-releases/releases) page:
    ```
    KiteScribe-UserSetup.msi
    ```
@@ -90,3 +90,7 @@ KiteScribe now enforces an **offline signed license** at startup.
 🌐 [KiteScribe.ai](https://KiteScribe.ai)
 
 Tag builds also generate an SBOM at `out/KiteScribe.sbom.cdx.json` plus a bundled-binaries manifest (`out/THIRD_PARTY_BINARIES.txt`) and attach them to the GitHub Release assets.
+
+## Developer and related work
+
+[Caymran Cummings](https://github.com/caymran) develops KiteScribe at [FXBG Foundry](https://fxbgfoundry.com/). See [ScheduleBrief Viewer](https://github.com/FXBGFoundry/schedulebrief-releases) for a Windows tool for viewing project schedules.
