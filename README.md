@@ -94,3 +94,7 @@ Tag builds also generate an SBOM at `out/KiteScribe.sbom.cdx.json` plus a bundle
 ## Developer and related work
 
 [Caymran Cummings](https://github.com/caymran) develops KiteScribe at [FXBG Foundry](https://fxbgfoundry.com/). See [ScheduleBrief Viewer](https://github.com/FXBGFoundry/schedulebrief-releases) for a Windows tool for viewing project schedules.
+
+## Practical guide
+
+[Verify a KiteScribe Windows download](docs/verify-windows-download.md) - check the installer checksum and digital signature, and retain verification evidence.
